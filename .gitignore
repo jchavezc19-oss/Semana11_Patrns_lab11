@@ -1,0 +1,6 @@
+# Chavez Castillo Jorge Leonardo - Archivos a omitir
+bin/
+*.class
+.metadata/
+*.pdf
+*.png
