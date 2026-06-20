@@ -6,7 +6,7 @@ public class Main {
         System.out.println("--- SIMULACIÓN DE PEDIDOS (CAFETERÍA NEGRITO) ---");
         System.out.println("Estudiante: Chavez Castillo Jorge Leonardo\n");
         
-        // Chavez Castillo Jorge Leonardo - Ejemplo de prueba base: Tostado negro con Moca y Crema
+        // Chavez Castillo Jorge Leonardo - Caso de prueba rápido: Tostado Negro con Moca
         Cafe bebida = new TostadoNegro();
         bebida = new Moca(bebida);
         
